@@ -2,7 +2,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h1{
+h1, h2{
     text-align: center;
 }
 
@@ -17,4 +17,11 @@ h1{
 #container div{
     height: 200px;
     width: 200px;
+}
+
+main{
+    margin: 0 auto;
+    width: 80%;
+    border: 5px solid black;
+    height: 500px;
 }
